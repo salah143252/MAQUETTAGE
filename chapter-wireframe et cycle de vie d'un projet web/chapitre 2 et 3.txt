@@ -1,0 +1,25 @@
+Phases principales d’un projet web :
+
+
+Analyse → comprendre les besoins et objectifs.
+
+
+Conception → faire l’arborescence et le wireframe.
+
+
+Développement → coder le site (HTML, CSS, JS…).
+
+
+Tests → vérifier que tout fonctionne.
+
+
+Mise en ligne → publier le site.
+
+
+Maintenance → mises à jour et corrections.
+
+
+
+Rôle du wireframe :
+Le wireframe sert à planifier la structure du site (placement des éléments, navigation) avant le design ou le code.
+=> Il aide à visualiser, organiser et éviter les erreurs.
