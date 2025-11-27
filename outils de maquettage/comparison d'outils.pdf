@@ -1,0 +1,26 @@
+Comparaison des outils de design : Adobe XD, Balsamiq et Figma
+Adobe XD:
+
+Forces principales=>
+Adobe XD se distingue par une interface moderne et particulièrement intuitive, ce qui facilite sa prise en main. L'outil excelle dans la création de prototypes interactifs sophistiqués et bénéficie d'une intégration transparente avec l'ensemble de la suite Adobe, permettant une continuité de flux de travail pour les utilisateurs de Photoshop, Illustrator ou autres produits de l'écosystème.
+
+Limitations=>
+Cependant, Adobe XD reste payant après la période d'essai gratuite, ce qui peut représenter un frein pour certains utilisateurs. De plus, sa collaboration en temps réel s'avère moins fluide comparée à des solutions comme Figma, limitant son efficacité pour les équipes distribuées travaillant simultanément sur les mêmes fichiers.
+
+
+Balsamiq:
+
+Forces principales=>
+Balsamiq se positionne comme la solution idéale pour les wireframes basiques grâce à son extrême simplicité et rapidité de mise en place. Son interface au style "croquis" stimule la créativité en conservant une approche moins formelle, tandis que sa courbe d'apprentissage peu abrupte le rend accessible aux débutants et aux designers non spécialisés.
+
+Limitations=>
+L'outil n'est toutefois pas conçu pour le prototypage interactif avancé. Son style visuel limité et peu réaliste le rend inadapté à la création de maquettes finales destinées à des présentations professionnelles ou à la validation avec des clients.
+
+
+Figma:
+
+Forces principales=>
+Figma se démarque par sa collaboration en temps réel basée sur le cloud, permettant aux équipes de travailler conjointement sans friction. Étant un outil entièrement basé sur le navigateur, il est accessible sur toutes les plateformes sans installation, ce qui en fait la solution privilégiée pour les design systems et le travail collaboratif en équipe.
+
+Limitations=>
+Son dépendance à une connexion Internet stable peut représenter un obstacle pour certains contextes de travail. Par ailleurs, Figma peut s'avérer chronophage et difficile à gérer sur les petits projets simples ou lorsqu'on travaille avec des fichiers extrêmement complexes.
